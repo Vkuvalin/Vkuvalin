@@ -34,8 +34,7 @@
   > В жизни успел повлиять и поковыряться во всём, что попадало в поле зрения :)
 
 ---
-</details>
-<details>
+</details><details>
   <summary><h2>🛠️ Технологии, с которыми работал</h2></summary>
   
   - **Backend & Data:**  
@@ -62,8 +61,7 @@
     `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
 
 ---
-</details>
-<details>
+</details><details>
   <summary><h2>📌 Избранные проекты</h2></summary>
 
   ### 🤖 [Analyst Machine](https://github.com/Vkuvalin/Analyst-Machine)
