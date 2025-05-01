@@ -50,10 +50,10 @@
 
 ## 📫 Контакты:
 
-📍 Москва, Московская обл, Долгопрудный
-📧 vkuvalin@yandex.ru  
-🔗 [Резюме (PDF)](https://hh.ru/applicant/resumes/view?resume_id=example) *(вставишь свою ссылку)*  
-🔗 [Telegram (если есть)]  
+- 📍 Москва, Московская обл, Долгопрудный
+- 📧 vkuvalin@yandex.ru
+- 🔗 [Резюме (PDF)](https://hh.ru/applicant/resumes/view?resume_id=example)
+- 🔗 [Telegram](https://t.me/steppz)
 
 ---
 
