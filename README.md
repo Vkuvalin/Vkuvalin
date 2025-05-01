@@ -23,7 +23,7 @@
 
 ---
 <details>
-  <summary style="margin: 0"><h2 style="margin: 0">🎭 Кратко обо мне</h2></summary>
+  <summary> ## 🎭 Кратко обо мне </summary>
 
   - Разрабатывал сложные enterprise-решения в ВТБ: архитектура, автоматизация, data pipeline'ы
   - Обучался Android-разработке (Kotlin, Jetpack Compose, MVVM, Firebase и др.)
@@ -35,7 +35,7 @@
 
 ---
 </details><details>
-  <summary style="margin: 0"><h2 style="margin: 0">🛠️ Технологии, с которыми работал</h2></summary>
+  <summary><h2>🛠️ Технологии, с которыми работал</h2></summary>
   
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
@@ -62,7 +62,7 @@
 
 ---
 </details><details>
-  <summary style="margin: 0"><h2 style="margin: 0">📌 Избранные проекты</h2></summary>
+  <summary><h2>📌 Избранные проекты</h2></summary>
 
   ### 🤖 [Analyst Machine](https://github.com/Vkuvalin/Analyst-Machine)
   > Когнитивная модификация ChatGPT, построенная на принципах логики, мета-рефлексии и архитектуры мышления  
