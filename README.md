@@ -23,7 +23,7 @@
 
 ---
 <details><summary><strong>🎭 ОБО МНЕ</strong></summary>
-
+  <br>
   - Разрабатывал сложные enterprise-решения в ВТБ: архитектура, автоматизация, data pipeline'ы
   - Обучался Android-разработке (Kotlin, Jetpack Compose, MVVM, Firebase и др.)
   - Создал **Analyst Machine** — адаптивную мета-когнитивную надстройку над GPT с многуровневой логикой.
@@ -34,7 +34,7 @@
 
 ---
 </details><details><summary><strong>🛠️ ТЕХНОЛОГИИ</strong></summary>
-  
+  <br>
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
@@ -60,7 +60,7 @@
 
 ---
 </details><details><summary><strong>📌 ПРОЕКТЫ</strong></summary>
-
+  <br>
   ### 🤖 [Analyst Machine](https://github.com/Vkuvalin/Analyst-Machine)
   > Когнитивная модификация ChatGPT, построенная на принципах логики, мета-рефлексии и архитектуры мышления  
 
