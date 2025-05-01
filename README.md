@@ -36,6 +36,8 @@
 ---
 </details><details><summary><strong>🛠️ ТЕХНОЛОГИИ</strong></summary>
 
+  ##🛠️ ТЕХНОЛОГИИ
+  
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
