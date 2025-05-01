@@ -12,6 +12,11 @@
 </p>
 
 
+<p align="left">
+  <a href="mailto:vkualvin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkualvin@yandex.ru-blue?style=flat&logo=gmail"/></a>
+  <a href="https://t.me/vkualvin"><img src="https://img.shields.io/badge/Telegram-@vkualvin-blue?style=flat&logo=telegram"/></a>
+</p>
+
 
 
 
