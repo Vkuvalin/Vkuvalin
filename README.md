@@ -23,17 +23,33 @@
 
 ## 🛠️ Технологии, с которыми работал:
 
-**Backend & Data:** `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
+**Backend & Data:**  
+`Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
-**Frontend & Web:**  `HTML5`, `CSS3`, `JavaScript`, `Django templates`
+**Frontend & Web:**  
+`HTML5`, `CSS3`, `JavaScript`, `Django templates`
 
-**Android:** `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `MVVM`, `Clean Architecture`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`, `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
+**Android:**  
+`Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`,  
+`MVVM`, `Clean Architecture`, `Room`, `Retrofit`,  
+`LiveData`, `Flows`, `Firebase`, `Dagger 2`,  
+`Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
 
-**AI & Cognitive Systems:** `GPT-4`, `Prompt Engineering`, `Markdown`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
+**AI & Cognitive Systems:**  
+`GPT-4`, `Prompt Engineering`, `Markdown`,  
+`Cognitive Architecture`, `meta-reasoning`, `logic-first design`
 
-**Automation & Tools:** `Bash`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`, `OpenShift`
+**Automation & Tools:**  
+`Bash`, `PowerShell`, `AutoHotkey`, `Git`,  
+`Swagger`, `Grafana`, `OpenShift`
 
-**Infrastructure & Environments:** `Unix`, `Linux (RedHat)`, `Windows`, `Jira`, `Confluence`
+**Web Automation & Scripting:**  
+`urllib`, `http.cookiejar`, `html.parser`, `json`,  
+`re`, `ssl`, `subprocess`, `threading`, `os`, `sys`, `time`, `datetime`
+
+**Infrastructure & Environments:**  
+`Unix`, `Linux (RedHat)`, `Windows`,  
+`Jira`, `Confluence`
 
 
 ---
