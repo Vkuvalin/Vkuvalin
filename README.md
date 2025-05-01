@@ -43,8 +43,8 @@
 ### 📱 [BrainStorm](https://github.com/Vkuvalin/BrainStorm)
 > Android-игра с архитектурой MVP+ и Jetpack Compose. Реплика старой легенды - BrainWars.
 
-### 🧩 [Find The Parent](https://github.com/Vkuvalin/FindTheParent)
-> Первое самостоятельное Android-приложение. Мини-игра на Kotlin. Ничего особенного, просто на память.
+### 🧩 [AutoHotkey](https://github.com/Vkuvalin/AutoHotkey)
+> Искренне рекомендую ознакомиться и обуздать - очень мощный 
 
 ---
 
