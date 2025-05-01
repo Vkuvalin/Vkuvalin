@@ -42,9 +42,6 @@
 
 <details>
   <summary><h2>🛠️ Технологии, с которыми работал</h2></summary>
-
-  <br>
-
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
@@ -71,7 +68,6 @@
     `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
 
 ---
-
 </details>
 
 <details>
