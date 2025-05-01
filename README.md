@@ -35,30 +35,38 @@
 
 ---
 
-## 🛠️ Технологии, с которыми работал:
+<details>
+  <summary>🛠️ Технологии, с которыми работал</summary>
 
-- **Backend & Data:**  
-`Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
+  <br>
 
-- **Frontend & Web:**  
-`HTML5`, `CSS3`, `JavaScript`, `Django templates`
+  - **Backend & Data:**  
+    `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
-- **Android:**  
-`Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `Clean Architecture`,
-`MVVM`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`, `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
+  - **Frontend & Web:**  
+    `HTML5`, `CSS3`, `JavaScript`, `Django templates`
 
-- **AI & Cognitive Systems:**  
-`GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`, `Markdown`
+  - **Android:**  
+    `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `Clean Architecture`,  
+    `MVVM`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`,  
+    `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
 
-- **Automation & Tools:**  
-`Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`, `OpenShift`
+  - **AI & Cognitive Systems:**  
+    `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`,  
+    `logic-first design`, `Markdown`
 
-- **Web Automation & Scripting:**  
-`urllib`, `http.cookiejar`, `html.parser`, `json`, `re`, `ssl`,
-`subprocess`, `threading`, `os`, `sys`, `time`, `datetime`
+  - **Automation & Tools:**  
+    `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`, `OpenShift`
 
-- **Infrastructure & Environments:**  
-`Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
+  - **Web Automation & Scripting:**  
+    `urllib`, `http.cookiejar`, `html.parser`, `json`, `re`, `ssl`,  
+    `subprocess`, `threading`, `os`, `sys`, `time`, `datetime`
+
+  - **Infrastructure & Environments:**  
+    `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
+
+</details>
+
 
 
 ---
