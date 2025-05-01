@@ -31,7 +31,7 @@
 
 **AI & Cognitive Systems:** `GPT-4`, `Prompt Engineering`, `Markdown`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
 
-**Automation & Tools:** `Bash`, `Git`, `Swagger`, `Grafana`, `OpenShift`, `AutoHotkey`
+**Automation & Tools:** `Bash`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`, `OpenShift`
 
 **Infrastructure & Environments:** `Unix`, `Linux (RedHat)`, `Windows`, `Jira`, `Confluence`
 
