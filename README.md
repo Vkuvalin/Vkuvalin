@@ -23,7 +23,7 @@
 
 ---
 <details>
-  <summary style="font-size:"20px">🎭 Кратко обо мне</summary>
+  <summary style="font-size:"40px">🎭 Кратко обо мне</summary>
 
   - Разрабатывал сложные enterprise-решения в ВТБ: архитектура, автоматизация, data pipeline'ы
   - Обучался Android-разработке (Kotlin, Jetpack Compose, MVVM, Firebase и др.)
