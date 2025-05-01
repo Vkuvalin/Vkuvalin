@@ -1,3 +1,20 @@
+<h1 align="center">⚙️ Vlad Kuvalin — Cognitive Architect, Developer & AI Thinker</h1>
+<p align="center">
+  🧠 Разработчик когнитивной платформы на GPT<br/>
+  🛠 Инженер архитектурного уровня с опытом в Android, Python и AI<br/>
+  🌍 Строю системы, которые понимают, мыслят и действуют
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Kotlin-blue?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/AI-GPT4-green?style=for-the-badge&logo=OpenAI"/>
+  <img src="https://img.shields.io/badge/Backend-Python-yellow?style=for-the-badge&logo=python"/>
+</p>
+
+
+
+
+
 # Привет, я Влад 👋
 
 Я — инженер-аналитик, разработчик и системный архитектор. Вечный ребёнок, с восторгом собирающий конструктор «жизнь».
