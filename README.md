@@ -31,8 +31,7 @@
 
 - **Android:**  
 `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `Clean Architecture`,
-`MVVM`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`,  
-`Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
+`MVVM`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`, `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
 
 - **AI & Cognitive Systems:**  
 `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`, `Markdown`
