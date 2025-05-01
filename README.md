@@ -23,7 +23,7 @@
 
 ---
 <details>
-  <summary><h2>🎭 Кратко обо мне </h2></summary>
+  <summary style="font-size:"20px">🎭 Кратко обо мне</summary>
 
   - Разрабатывал сложные enterprise-решения в ВТБ: архитектура, автоматизация, data pipeline'ы
   - Обучался Android-разработке (Kotlin, Jetpack Compose, MVVM, Firebase и др.)
@@ -35,7 +35,7 @@
 
 ---
 </details><details>
-  <summary><h2>🛠️ Технологии, с которыми работал</h2></summary>
+  <summary>🛠️ Технологии, с которыми работал</summary>
   
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
