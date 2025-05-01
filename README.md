@@ -83,7 +83,7 @@
 <p align="left">
   <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkualvin@yandex.ru-blue?style=flat&logo=gmail"/></a>
   <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-blue?style=flat&logo=telegram"/></a>
-  <a href="https://vk.com/id144901827"><img src="https://img.shields.io/badge/VK-%40steppz-4a76a8?style=flat&logo=vk"/></a>
+  <a href="https://vk.com/steppzz"><img src="https://img.shields.io/badge/VK-Steppz-4a76a8?style=flat&logo=vk"/></a>
   <a href="https://hh.ru/resume/e3012586ff0c86b4e10039ed1f51784c476b34"><img src="https://img.shields.io/badge/Resume-PDF-critical?style=flat&logo=adobeacrobatreader"/></a>
 </p>
 
