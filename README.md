@@ -1,4 +1,6 @@
-<h1 align="center">Analytical engineer, developer & system architect</h1>
+<h1 align="center">Привет, путник! <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Hi.gif" width="40px" style="vertical-align:middle"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=636&lines=Analytical+engineer%2C+developer+%26+system+architect" alt="Typing SVG" /></a>
+
 <p align="left">
   <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkualvin@yandex.ru-blue?style=flat&logo=gmail"/></a>
   <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-blue?style=flat&logo=telegram"/></a>
