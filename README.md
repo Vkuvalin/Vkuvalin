@@ -1,5 +1,11 @@
 <h1 align="center">Analytical engineer, developer & system architect</h1>
-<p align="center" style="color: red;">
+<p align="left">
+  <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkualvin@yandex.ru-blue?style=flat&logo=gmail"/></a>
+  <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-blue?style=flat&logo=telegram"/></a>
+  <a href="https://vk.com/steppzz"><img src="https://img.shields.io/badge/VK-Steppz-4a76a8?style=flat&logo=vk"/></a>
+  <a href="https://hh.ru/resume/e3012586ff0c86b4e10039ed1f51784c476b34"><img src="https://img.shields.io/badge/Resume-PDF-critical?style=flat&logo=adobeacrobatreader"/></a>
+</p>
+<p align="center"">
   🧠 Разработчик когнитивной платформы на GPT<br/>
   🛠 Инженер архитектурного уровня с опытом в Android, Python и AI<br/>
   🌍 Строю системы, которые понимают, мыслят и действуют
