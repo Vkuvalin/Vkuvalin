@@ -35,8 +35,7 @@
 
 ---
 </details><details><summary><strong>🛠️ ТЕХНОЛОГИИ</strong></summary>
-  <br>
-  
+
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
@@ -62,8 +61,7 @@
 
 ---
 </details><details><summary><strong>📌 ПРОЕКТЫ</strong></summary>
-  <br>
-  
+
   ### 🤖 [Analyst Machine](https://github.com/Vkuvalin/Analyst-Machine)
   > Когнитивная модификация ChatGPT, построенная на принципах логики, мета-рефлексии и архитектуры мышления  
 
