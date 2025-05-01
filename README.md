@@ -26,9 +26,13 @@
 ## 🛠️ Технологии, с которыми работал:
 
 **Backend & Data:** `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
+
 **Android:** `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `MVVM`, `Clean Architecture`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`, `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
+
 **AI & Cognitive Systems:** `GPT-4`, `Prompt Engineering`, `Markdown`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
+
 **Automation & Tools:** `Bash`, `Git`, `Swagger`, `Grafana`, `OpenShift`
+
 **Infrastructure & Environments:** `Unix`, `Linux (RedHat)`, `Windows`, `Jira`, `Confluence`
 
 
