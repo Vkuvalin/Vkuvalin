@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Vlad Kuvalin — Cognitive Architect, Developer & AI Thinker</h1>
+<h1 align="center">Analytical engineer, developer & system architect</h1>
 <p align="center">
   🧠 Разработчик когнитивной платформы на GPT<br/>
   🛠 Инженер архитектурного уровня с опытом в Android, Python и AI<br/>
