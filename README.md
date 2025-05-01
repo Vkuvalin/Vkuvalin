@@ -38,22 +38,28 @@
 <details>
   <summary><h2>🛠️ Технологии, с которыми работал</h2></summary>
   
-  - **Backend & Data:** `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
+  - **Backend & Data:**  
+    `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
-  - **Frontend & Web:** `HTML5`, `CSS3`, `JavaScript`, `Django templates`
+  - **Frontend & Web:**  
+    `HTML5`, `CSS3`, `JavaScript`, `Django templates`
 
   - **Android:**  
     `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `Clean Architecture`,  
     `MVVM`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`,  
     `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
 
-  - **AI & Cognitive Systems:** `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`, `Markdown`
+  - **AI & Cognitive Systems:**  
+    `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`, `Markdown`
 
-  - **Automation & Tools:** `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`, `OpenShift`
+  - **Automation & Tools:**  
+    `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`, `OpenShift`
 
-  - **Web Automation & Scripting:** `urllib`, `http.cookiejar`, `html.parser`, `json`, `re`, `ssl`, `subprocess`, `threading`, `os`, `sys`, `time`, `datetime`
+  - **Web Automation & Scripting:**  
+    `urllib`, `http.cookiejar`, `html.parser`, `json`, `re`, `ssl`, `subprocess`, `threading`, `os`, `sys`, `time`, `datetime`
 
-  - **Infrastructure & Environments:** `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
+  - **Infrastructure & Environments:**  
+    `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
 
 ---
 </details>
