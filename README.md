@@ -34,7 +34,7 @@
   > В жизни успел повлиять и поковыряться во всём, что попадало в поле зрения :)
 
 ---
-</details><details><summary><strong><h2>🛠️ ТЕХНОЛОГИИ</h2></strong></summary>
+</details><details><summary><h2>🛠️ ТЕХНОЛОГИИ</h2></summary>
   
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
