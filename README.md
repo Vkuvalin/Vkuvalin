@@ -25,6 +25,8 @@
 
 **Backend & Data:** `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
+**Frontend & Web:**  `HTML5`, `CSS3`, `JavaScript`, `Django templates`
+
 **Android:** `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `MVVM`, `Clean Architecture`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`, `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
 
 **AI & Cognitive Systems:** `GPT-4`, `Prompt Engineering`, `Markdown`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
