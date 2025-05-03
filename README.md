@@ -13,6 +13,7 @@
 
 
 <p align="left">
+  <a href=""/>📫 Контакты: </a>
   <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkualvin@yandex.ru-blue?style=flat&logo=gmail"/></a>
   <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-blue?style=flat&logo=telegram"/></a>
   <a href="https://vk.com/steppzz"><img src="https://img.shields.io/badge/VK-Steppz-4a76a8?style=flat&logo=vk"/></a>
@@ -31,7 +32,7 @@
 </p>
 
 
-# Привет, я Влад 👋
+# Обо мне
 
 Я — инженер-аналитик, разработчик и системный архитектор. Вечный ребёнок, с восторгом собирающий конструктор «жизнь».
 - В моём фокусе — проектирование решений, автоматизация, архитектура систем и ИИ (основное и интересное направление).  
@@ -94,34 +95,6 @@
 
 ---
 </details>
-
-## 📫 Контакты:
-
-<p align="left">
-  <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkualvin@yandex.ru-blue?style=flat&logo=gmail"/></a>
-  <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-blue?style=flat&logo=telegram"/></a>
-  <a href="https://vk.com/steppzz"><img src="https://img.shields.io/badge/VK-Steppz-4a76a8?style=flat&logo=vk"/></a>
-  <a href="https://hh.ru/resume/e3012586ff0c86b4e10039ed1f51784c476b34"><img src="https://img.shields.io/badge/Resume-PDF-critical?style=flat&logo=adobeacrobatreader"/></a>
-</p>
-
-
-### 📍 Location  
-India
-
-### 📧 Email  
-[mailto:vkuvalin@yandex.ru](mailto:vkuvalin@yandex.ru)
-
-### 💼 LinkedIn  
-[linkedin.com/in/vkuvalin](https://linkedin.com/in/vkuvalin)
-
-### 💬 Telegram  
-[@vkualvin](https://t.me/vkualvin)
-
-### 🐙 GitHub  
-[vkuvalin](https://github.com/vkuvalin)
-
-
-
 
 ---
 
