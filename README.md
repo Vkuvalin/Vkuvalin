@@ -105,6 +105,24 @@
 </p>
 
 
+### 📍 Location  
+India
+
+### 📧 Email  
+[mailto:vkuvalin@yandex.ru](mailto:vkuvalin@yandex.ru)
+
+### 💼 LinkedIn  
+[linkedin.com/in/vkuvalin](https://linkedin.com/in/vkuvalin)
+
+### 💬 Telegram  
+[@vkualvin](https://t.me/vkualvin)
+
+### 🐙 GitHub  
+[vkuvalin](https://github.com/vkuvalin)
+
+
+
+
 ---
 
 > _"Сильное мышление — это не скорость, а точность, ясность и независимость."_
