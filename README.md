@@ -14,11 +14,24 @@
   🌍 Строю системы, которые понимают, мыслят и действуют
 </p>
 
+<!-- <p align="center"> -->
+<!--   <img src="https://img.shields.io/badge/Android-Kotlin-blue?style=for-the-badge&logo=kotlin"/> -->
+<!--   <img src="https://img.shields.io/badge/AI-GPT4-green?style=for-the-badge&logo=OpenAI"/> -->
+<!--   <img src="https://img.shields.io/badge/Backend-Python-yellow?style=for-the-badge&logo=python"/> -->
+<!-- </p> -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-Kotlin-blue?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/AI-GPT4-green?style=for-the-badge&logo=OpenAI"/>
-  <img src="https://img.shields.io/badge/Backend-Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/🧠 COGNITIVE-blueviolet" />
+  <img src="https://img.shields.io/badge/🧱 ARCHITECTURE-lightgrey" />
+  <img src="https://img.shields.io/badge/🧬 GPT4-brightgreen" />
+  <img src="https://img.shields.io/badge/📱 ANDROID-7c4dff" />
+  <img src="https://img.shields.io/badge/🟡 PYTHON-f7c52d" />
+  <img src="https://img.shields.io/badge/⚙️ BACKEND-343b45" />
+  <img src="https://img.shields.io/badge/🧩 LOGIC--FIRST-blue" />
+  <img src="https://img.shields.io/badge/🎯 SYSTEM DESIGN-0d1117" />
+  <img src="https://img.shields.io/badge/🧑‍🏫 AI MENTOR-4caf50" />
 </p>
+
 
 
 # Обо мне
