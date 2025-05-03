@@ -20,6 +20,19 @@
 <!--   <img src="https://img.shields.io/badge/Backend-Python-yellow?style=for-the-badge&logo=python"/> -->
 <!-- </p> -->
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ANDROID-302c40?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/KOTLIN-007ACC?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-232323?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT4-8BC34A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/BACKEND-2f3e4e?style=for-the-badge&logo=python&logoColor=lightblue" />
+  <img src="https://img.shields.io/badge/PYTHON-ffca28?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/WEB-1e1e1e?style=for-the-badge&logo=html5&logoColor=orange" />
+</p>
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/🧠 COGNITIVE-blueviolet" />
   <img src="https://img.shields.io/badge/🧱 ARCHITECTURE-lightgrey" />
