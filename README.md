@@ -14,10 +14,10 @@
 
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Backend-Python-3776ab?style=for-the-badge&logo=python"/>
-	<img src="https://img.shields.io/badge/Android-Kotlin-6843d4?style=for-the-badge&logo=kotlin"/>
-	<img src="https://img.shields.io/badge/AI-GPT-823636?style=for-the-badge&logo=OpenAI"/>
-	<img src="https://img.shields.io/badge/WEB-231d1d?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Backend-Python-3776ab?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Android-Kotlin-6843d4?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/AI-GPT-823636?style=for-the-badge&logo=OpenAI"/>
+  <img src="https://img.shields.io/badge/WEB-231d1d?style=for-the-badge&logo=html5&logoColor=orange" />
 </p>
 
 <p align="center">
@@ -31,7 +31,6 @@
 
 
 # Обо мне
-
 Я — инженер-аналитик, разработчик и системный архитектор. Вечный ребёнок, с восторгом собирающий конструктор «жизнь».
 - В моём фокусе — проектирование решений, автоматизация, архитектура систем и ИИ.  
 - Ценю ясность, структуру и глубокое понимание процессов. **Обожаю** оптимизировать и делать из хаоса архитектуру.
@@ -40,9 +39,7 @@
 > Сейчас ищу пристанище на ближайшие годы, куда мог направить накопленные знания и нескончаемую энергию.
 
 ---
-<details><summary><h2>🎭 ОБО МНЕ</h2></summary>
-  <br>
-  
+<details><summary><Strong>🎭 ОБО МНЕ</Strong></summary>
   - Разрабатывал сложные enterprise-решения в ВТБ: архитектура, автоматизация;
   - Построил систему онбординга и обучил лично 30+ сотрудников;
   - Обучался Android-разработке (Kotlin, Jetpack Compose, MVVM, Firebase и др.);
@@ -53,7 +50,7 @@
   > В жизни успел повлиять и поковыряться во всём, что попадало в поле зрения :)
 
 ---
-</details><details><summary><h2>🛠️ ТЕХНОЛОГИИ</h2></summary>
+</details><details><summary><Strong>🛠️ ТЕХНОЛОГИИ</Strong></summary>
   
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
@@ -79,7 +76,7 @@
     `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
 
 ---
-</details><details><summary><h2>📌 ПРОЕКТЫ</h2></summary>
+</details><details><summary><Strong>📌 ПРОЕКТЫ</Strong></summary>
 
   ### 🤖 [Analyst Machine](https://github.com/Vkuvalin/Analyst-Machine)
   > Когнитивная модификация ChatGPT, построенная на принципах логики, мета-рефлексии и архитектуры мышления  
