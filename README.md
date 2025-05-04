@@ -23,7 +23,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Android-Kotlin-7c4dff?style=for-the-badge&logo=kotlin"/>
-	<img src="https://img.shields.io/badge/AI?style=for-the-badge&logo=OpenAI"/>
+	<img src="https://img.shields.io/badge/AI-?style=for-the-badge&logo=OpenAI"/>
 	<img src="https://img.shields.io/badge/Backend-Python-007ACC?style=for-the-badge&logo=python"/>
 	<img src="https://img.shields.io/badge/WEB-1e1e1e?style=for-the-badge&logo=html5&logoColor=orange" />
 </p>
