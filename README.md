@@ -30,10 +30,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧠 COGNITIVE-582e88" />
-  <img src="https://img.shields.io/badge/🧱 ARCHITECTURE-dd4d33" />
-  <img src="https://img.shields.io/badge/🧩 LOGIC--FIRST-blue" />
+  <img src="https://img.shields.io/badge/🧱 ARCHITECTURE-a23f2d" />
+  <img src="https://img.shields.io/badge/🧩 LOGIC--FIRST-032f3e" />
   <img src="https://img.shields.io/badge/🎯 SYSTEM DESIGN-0d1117" />
-  <img src="https://img.shields.io/badge/🧑‍🏫 AI MENTOR-4caf50" />
+  <img src="https://img.shields.io/badge/🧑‍🏫 AI MENTOR-50974f" />
 </p>
 
 
