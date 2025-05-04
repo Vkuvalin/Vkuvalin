@@ -3,8 +3,7 @@
 
 <p align="left">
   <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkuvalin@yandex.ru-dbc72a?style=flat&logo=gmail"/></a>
-  <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-2085be?style=flat&logo=telegram"/></a>
-  <a href="https://vk.com/steppzz"><img src="https://img.shields.io/badge/VK-Steppz-3c6794?style=flat&logo=vk"/></a>
+  <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-446b93?style=flat&logo=telegram"/></a>
 </p>
 
 <p align="center"">
