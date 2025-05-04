@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"">
-  <img src="https://static.tildacdn.com/tild3332-6164-4736-a433-346261353065/gear-stack-rotating-.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Инженер-разработчик архитектурного уровня с опытом в Data, Web, Android и AI<br/>
+  <img src="https://media.tenor.com/2jd3xi2WVt0AAAAC/recurring-settings.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Инженер-разработчик архитектурного уровня с опытом в Data, Web, Android и AI<br/>
   <img src="https://kabinfo.ucoz.ru/scr/Golovoka/pazls.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Люблю нестандартные задачи, системное мышление и глубокую проработку<br/>
   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Earth.gif" width="15px" hight="15px"/> Строю системы, которые понимают, мыслят и действуют
 </p>
