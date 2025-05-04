@@ -11,7 +11,7 @@
 <p align="center"">
   🛠 Инженер-разработчик архитектурного уровня с опытом в Data, Web, Android и AI<br/>
   🧩 Люблю нестандартные задачи, системное мышление и глубокую проработку<br/>
-  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Earth.gif" width="10px" hight="10px"/> Строю системы, которые понимают, мыслят и действуют
+  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Earth.gif" width="20px" hight="20px"/> Строю системы, которые понимают, мыслят и действуют
 </p>
 
 
