@@ -2,9 +2,9 @@
 
 
 <p align="left">
-  <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkuvalin@yandex.ru-blue?style=flat&logo=gmail"/></a>
+  <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkuvalin@yandex.ru-e2cc1e?style=flat&logo=gmail"/></a>
   <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-blue?style=flat&logo=telegram"/></a>
-  <a href="https://vk.com/steppzz"><img src="https://img.shields.io/badge/VK-Steppz-4a76a8?style=flat&logo=vk"/></a>
+  <a href="https://vk.com/steppzz"><img src="https://img.shields.io/badge/VK-Steppz-3c6794?style=flat&logo=vk"/></a>
   <a href="https://hh.ru/resume/e3012586ff0c86b4e10039ed1f51784c476b34"><img src="https://img.shields.io/badge/Резюме-hh-f73231?style=flat&logo=adobeacrobatreader"/></a>
 </p>
 
@@ -29,8 +29,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠 COGNITIVE-blueviolet" />
-  <img src="https://img.shields.io/badge/🧱 ARCHITECTURE-lightgrey" />
+  <img src="https://img.shields.io/badge/🧠 COGNITIVE-582e88" />
+  <img src="https://img.shields.io/badge/🧱 ARCHITECTURE-dd4d33" />
   <img src="https://img.shields.io/badge/🧩 LOGIC--FIRST-blue" />
   <img src="https://img.shields.io/badge/🎯 SYSTEM DESIGN-0d1117" />
   <img src="https://img.shields.io/badge/🧑‍🏫 AI MENTOR-4caf50" />
