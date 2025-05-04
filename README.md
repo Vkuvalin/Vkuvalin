@@ -22,24 +22,15 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ANDROID-302c40?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/KOTLIN-007ACC?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-232323?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT4-8BC34A?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/BACKEND-2f3e4e?style=for-the-badge&logo=python&logoColor=lightblue" />
-  <img src="https://img.shields.io/badge/PYTHON-ffca28?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/WEB-1e1e1e?style=for-the-badge&logo=html5&logoColor=orange" />
+	<img src="https://img.shields.io/badge/Android-Kotlin-7c4dff?style=for-the-badge&logo=kotlin"/>
+	<img src="https://img.shields.io/badge/AI?style=for-the-badge&logo=OpenAI"/>
+	<img src="https://img.shields.io/badge/Backend-Python-007ACC?style=for-the-badge&logo=python"/>
+	<img src="https://img.shields.io/badge/WEB-1e1e1e?style=for-the-badge&logo=html5&logoColor=orange" />
 </p>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧠 COGNITIVE-blueviolet" />
   <img src="https://img.shields.io/badge/🧱 ARCHITECTURE-lightgrey" />
-  <img src="https://img.shields.io/badge/🧬 GPT4-brightgreen" />
-  <img src="https://img.shields.io/badge/📱 ANDROID-7c4dff" />
-  <img src="https://img.shields.io/badge/🟡 PYTHON-f7c52d" />
-  <img src="https://img.shields.io/badge/⚙️ BACKEND-343b45" />
   <img src="https://img.shields.io/badge/🧩 LOGIC--FIRST-blue" />
   <img src="https://img.shields.io/badge/🎯 SYSTEM DESIGN-0d1117" />
   <img src="https://img.shields.io/badge/🧑‍🏫 AI MENTOR-4caf50" />
