@@ -8,7 +8,7 @@
 
 <p align="center"">
   <img src="https://www.servisten.net/assets/images/loader.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Инженер-разработчик архитектурного уровня с опытом в Data, Web, Android и AI<br/>
-  <img src="https://kabinfo.ucoz.ru/scr/Golovoka/pazls.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Люблю нестандартные задачи, системное мышление и глубокую проработку<br/>
+  <img src="https://maoninfo.ru/wp-content/uploads/2020/01/pazl.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Люблю нестандартные задачи, системное мышление и глубокую проработку<br/>
   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Earth.gif" width="15px" hight="15px"/> Строю системы, которые понимают, мыслят и действуют
 </p>
 
