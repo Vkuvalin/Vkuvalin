@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Hi.gif" width="40px" hight="40px" style="vertical-align:top; margin-right:20px;"/></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=4000&color=F73231&center=true&vCenter=true&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+What+Is+Love+" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Hi.gif" width="40px" hight="40px" style="vertical-align:top; margin-right:20px;"/></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=4000&color=F73231&center=true&vCenter=true&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+What+Is+Love+" alt="Typing SVG" /></a></h1>
+
+
 
 
 <p align="left">
@@ -9,7 +11,7 @@
 <p align="center"">
   🛠 Инженер-разработчик архитектурного уровня с опытом в Data, Web, Android и AI<br/>
   🧩 Люблю нестандартные задачи, системное мышление и глубокую проработку<br/>
-  🌍 Строю системы, которые понимают, мыслят и действуют
+  <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Earth.gif" width="10px" hight="10px"/> Строю системы, которые понимают, мыслят и действуют
 </p>
 
 
