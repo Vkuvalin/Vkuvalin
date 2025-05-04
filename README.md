@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkuvalin@yandex.ru-dbc72a?style=flat&logo=gmail"/></a>
+  <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkuvalin@yandex.ru-ea4335?style=flat&logo=gmail"/></a>
   <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-446b93?style=flat&logo=telegram"/></a>
 </p>
 
