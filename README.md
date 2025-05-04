@@ -1,15 +1,13 @@
 <h1 align="center"><a><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Hi.gif" width="40px" hight="40px" style="vertical-align:top; margin-right:20px;"/></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=4000&color=F73231&center=true&vCenter=true&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+What+Is+Love+" alt="Typing SVG" /></a></h1>
 
 
-
-
 <p align="left">
   <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkuvalin@yandex.ru-83251d?style=flat&logo=gmail"/></a>
   <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-446b93?style=flat&logo=telegram"/></a>
 </p>
 
 <p align="center"">
-  🛠 Инженер-разработчик архитектурного уровня с опытом в Data, Web, Android и AI<br/>
+  <img src="https://static.tildacdn.com/tild3332-6164-4736-a433-346261353065/gear-stack-rotating-.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Инженер-разработчик архитектурного уровня с опытом в Data, Web, Android и AI<br/>
   <img src="https://kabinfo.ucoz.ru/scr/Golovoka/pazls.gif" width="15px" hight="15px" style="vertical-align:bottom;" /> Люблю нестандартные задачи, системное мышление и глубокую проработку<br/>
   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Earth.gif" width="15px" hight="15px"/> Строю системы, которые понимают, мыслят и действуют
 </p>
