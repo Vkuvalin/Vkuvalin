@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🕌 ARCHITECTURE-a23f2d" />
+  <img src="https://img.shields.io/badge/🕌 ARCHITECTURE-6c2a1d" />
   <img src="https://img.shields.io/badge/🧩 LOGIC--FIRST-044960" />
   <img src="https://img.shields.io/badge/🎨 SYSTEM DESIGN-00337f" />
   <img src="https://img.shields.io/badge/✍️ AI MENTOR-50974f" />
