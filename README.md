@@ -68,13 +68,10 @@
     `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
 
   - **AI & Cognitive Systems:**  
-    `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`, `Markdown`
+    `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
 
   - **Automation & Tools:**  
     `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`
-
-  - **Web Automation & Scripting:**  
-    `urllib`, `http.cookiejar`, `html.parser`, `json`, `re`, `ssl`, `subprocess`, `threading`, `os`, `sys`, `time`, `datetime`
 
   - **Infrastructure & Environments:**  
     `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
