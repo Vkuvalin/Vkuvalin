@@ -55,26 +55,26 @@
 
 ---
 </details><details><summary><Strong>🛠️ ТЕХНОЛОГИИ</Strong></summary>
-  
+
+  - **AI & Cognitive Systems:**  
+    `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
+      
   - **Backend & Data:**  
     `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
 
-  - **Frontend & Web:**  
-    `HTML5`, `CSS3`, `JavaScript`, `Django templates`
+  - **Automation & Tools:**  
+    `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`    
+
+  - **Infrastructure & Environments:**  
+    `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
 
   - **Android:**  
     `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `Clean Architecture`,  
     `MVVM`, `Room`, `Retrofit`, `LiveData`, `Flows`, `Firebase`, `Dagger 2`,  
     `Navigation`, `Animations`, `Services`, `Broadcast Receivers`, `Content Providers`
 
-  - **AI & Cognitive Systems:**  
-    `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
-
-  - **Automation & Tools:**  
-    `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`
-
-  - **Infrastructure & Environments:**  
-    `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
+  - **Frontend & Web:**  
+    `HTML5`, `CSS3`, `JavaScript`, `Django templates`
 
 ---
 </details><details><summary><Strong>📌 ИНТЕРЕСНЫЕ ПРОЕКТЫ</Strong></summary>
