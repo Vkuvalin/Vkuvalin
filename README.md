@@ -4,7 +4,7 @@
 <p align="left">
   <a href="mailto:vkuvalin@yandex.ru"><img src="https://img.shields.io/badge/Email-vkuvalin@yandex.ru-83251d?style=flat&logo=gmail"/></a>
   <a href="https://t.me/steppz"><img src="https://img.shields.io/badge/Telegram-@Steppz-446b93?style=flat&logo=telegram"/></a>
-  <a href="https://hh.ru/resume/fee09e89ff0f50086f0039ed1f424b7778634d"><img src="https://img.shields.io/badge/HH-%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-d40000?style=flat"/></a>
+  <a href="https://hh.ru/resume/dbb56584ff0ecb039d0039ed1f7a4547786b4e"><img src="https://img.shields.io/badge/HH-%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-d40000?style=flat"/></a>
 </p>
 
 <p align="center"">
