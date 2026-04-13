@@ -94,7 +94,7 @@
   ### 🤖 [Controller for computer](https://github.com/Vkuvalin/Controller-for-computer) - Многофункциональный телеграм-контроллер ПК
   ### 🧩 [AutoHotkey](https://github.com/Vkuvalin/AutoHotkey) - Рекомендую обуздать - мощный язык для Windows
   
-<a href="https://github.com/Vkuvalin?tab=repositories&amp;sort=stargazers"></a>
+[All Repositories](https://github.com/Vkuvalin?tab=repositories&amp;sort=stargazers)
 </details>
 
 ---
