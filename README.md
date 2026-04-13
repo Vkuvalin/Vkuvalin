@@ -37,7 +37,7 @@
 - Ценю ясность, структуру и глубокое понимание процессов. **Обожаю** оптимизировать и делать из хаоса архитектуру.
 
 > Ввиду «забавного» жизненного маршрута собрал широкую горизонтальную палитру опыта.
-> Сейчас ищу «пристанище» — пространство, где смогу вложить накопленные знания и нескончаемую энергию.
+> Сейчас ищу «пристанище», где смогу раскрыть накопленные знания и нескончаемую энергию.
 
 ---
 <details><summary><Strong>🧠 ПРОФЕССИОНАЛЬНЫЙ ОПЫТ</Strong></summary><br>
@@ -94,7 +94,7 @@
   ### 🤖 [Controller for computer](https://github.com/Vkuvalin/Controller-for-computer) - Многофункциональный телеграм-контроллер ПК
   ### 🧩 [AutoHotkey](https://github.com/Vkuvalin/AutoHotkey) - Рекомендую обуздать - мощный язык для Windows
   
-<a href="https://github.com/Vkuvalin?tab=repositories&amp;sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://camo.githubusercontent.com/39653bd0d1b679e5d32ca88127ba97a27307bbc7d606408b61ae521399f0979c/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d436c69636b25323048657265253230466f72253230416c6c2532304d792532305265706f732d3146323232453f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7265706f" data-canonical-src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&amp;logoColor=white&amp;logo=repo" style="max-width: 100%;"></a>
+<a href="https://github.com/Vkuvalin?tab=repositories&amp;sort=stargazers"></a>
 </details>
 
 ---
