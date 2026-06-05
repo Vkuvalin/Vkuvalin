@@ -44,7 +44,7 @@
   
   - Успешно формировал коммуникационные, бизнес- и технические процессы, значительно повышая производительность;
   - Разрабатывал сложные enterprise-решения в ВТБ: архитектура, автоматизация;
-  - В ВТБ создал ряд инструментов различного предназначения, используемых 100+ коллегами;
+  - В ВТБ создал ряд инструментов различного предназначения, используемых 200+ коллегами;
   - Обучался Android-разработке (Kotlin, Jetpack Compose, MVVM, Firebase и др.);
   - Создал **Meta Machine** — адаптивную мета-когнитивную надстройку над GPT с многуровневой логикой;
   - Построил систему онбординга и обучил лично 30+ сотрудников;
@@ -56,17 +56,26 @@
 ---
 </details><details><summary><Strong>🛠️ ТЕХНОЛОГИИ</Strong></summary>
 
-  - **AI & Cognitive Systems:**  
-    `GPT-4`, `Prompt Engineering`, `Cognitive Architecture`, `meta-reasoning`, `logic-first design`
+  - **AI / LLM Engineering:**  
+    `LLM API`, `OpenRouter`, `Structured Outputs`, `Pydantic`, `JSON Schema`,
+    `Prompt/System Design`, `Multimodal LLMs`, `LLM Response Validation`,
+    `Guardrails`, `LLM Evals basics`
+
+  - **AI Workflow Engineering:**  
+    `Backend-controlled LLM Workflows`, `State Machines`, `Workflow Orchestration`,
+    `Transition Tables`, `Router Pattern`, `Subflows`, `Fallback Paths`,
+    `Controlled Failure`, `Codex-assisted Development`
       
   - **Backend & Data:**  
-    `Python`, `SQL`, `PostgreSQL`, `Django`, `Airflow`, `REST API`
+    `Python`, `SQL`, `PostgreSQL`, `SQLite`, `Django`, `REST API`,
+    `Pydantic`, `Repository Pattern`, `Workflow State Management`
 
   - **Automation & Tools:**  
-    `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Swagger`, `Grafana`    
+    `Bash`, `PowerShell`, `AutoHotkey`, `Git`, `Codex`, `Swagger`,
+    `Grafana`, `Ruff`, `Pyright`, `Pytest`, `uv`    
 
   - **Infrastructure & Environments:**  
-    `Unix`, `Linux (RedHat)`, `Windows`,  `Jira`, `Confluence`
+    `Unix`, `Linux (RedHat)`, `Windows`, `.env / Runtime Config`, `Jira`, `Confluence`
 
   - **Android:**  
     `Kotlin`, `Jetpack Compose`, `Android SDK`, `Android Jetpack`, `Clean Architecture`,  
