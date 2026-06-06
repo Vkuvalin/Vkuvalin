@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/🎨 SYSTEM DESIGN-00337f" />
   <img src="https://img.shields.io/badge/🕌 ARCHITECTURE-ad5b30" />
   <img src="https://img.shields.io/badge/🧩 LOGIC--FIRST-044960" />
-  <img src="https://img.shields.io/badge/✍️ AI MENTOR-458344" />
+  <img src="https://img.shields.io/badge/✍️ LLM WORKFLOW-458344" />
   <img src="https://img.shields.io/badge/🧠 COGNITIVE-582e88" />
 </p>
 
