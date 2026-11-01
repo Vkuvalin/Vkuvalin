@@ -64,24 +64,24 @@
 |---|---|
 | **Vacancy&nbsp;Collector** | Персональный инструмент для сбора и оценки вакансий, который помогает работать с подходящей подборкой вместо ручного поиска.<br/>**Сейчас:** личная версия проходит тестирование и стабилизацию. Дальнейшее развитие — коммерческий сервис. Исходный репозиторий пока приватный. |
 | **Attribution&nbsp;AI** | Продукт для AI-атрибуции антиквариата по фотографиям: от анализа предмета до структурированного результата.<br/>**Сейчас:** веб-интерфейс готов. Следующий этап — интеграция с backend и подготовка коммерческого запуска. Исходный репозиторий пока приватный. |
-| 🧠 [Command&nbsp;Center](https://github.com/Vkuvalin/command-center-public) | Система оркестрации разработки с ИИ-агентами под управлением специалиста: этапы, постановка задач, проектная память, исполнение и независимое ревью. |
-| 🗺️ [Project&nbsp;KB](https://github.com/Vkuvalin/project-kb) | Структурная карта Python-репозиториев: снимки SQLite, проверка актуальности, CLI и доступ через MCP. Исследовательский инструмент с опубликованными экспериментами. |
-| 🕸️ [AI&nbsp;Tool&nbsp;Gateway](https://github.com/Vkuvalin/enterprise-ai-tool-gateway) | Локальный прототип AI-шлюза: проверка предложений модели, согласование действий, контролируемое выполнение инструментов и журнал аудита. |
-| 🤖 [Reviewer&nbsp;Hub](https://github.com/Vkuvalin/reviewer-hub) | Независимый рецензент решений и результатов: выбор источников, чтение длинных чатов и курируемая память проекта. |
-| 🧭 [Personal&nbsp;Assistant](https://github.com/Vkuvalin/personal-assistant-foundation) | Архитектура персонального ассистента: память, рабочие пространства, маршрутизация к владельцам данных и проверяемое обновление записей. |
-| 📷 [DocuStruct&nbsp;AI](https://github.com/Vkuvalin/document-digitization-ai) | Локальный AI-инструмент для извлечения полей и таблиц из изображений документов, проверки результата и экспорта в Markdown/PDF. |
-| 🌐 [ChatGPT&nbsp;Helper](https://github.com/Vkuvalin/chatgpt-helper) | Chromium-расширение: шаблоны и папки, словарь, сохранённые фрагменты, перевод и AI-анализ выделенного текста. |
-| 🧠 [Meta&nbsp;Machine](https://github.com/Vkuvalin/Family-Meta-Machine) | Авторский эксперимент с модульными инструкциями для Custom GPT: уточнение намерений, роли, пошаговый разбор и управление диалогом. |
+| 🧠&nbsp;[Command&nbsp;Center](https://github.com/Vkuvalin/command-center-public) | Система оркестрации разработки с ИИ-агентами под управлением специалиста: этапы, постановка задач, проектная память, исполнение и независимое ревью. |
+| 🗺️&nbsp;[Project&nbsp;KB](https://github.com/Vkuvalin/project-kb) | Структурная карта Python-репозиториев: снимки SQLite, проверка актуальности, CLI и доступ через MCP. Исследовательский инструмент с опубликованными экспериментами. |
+| 🕸️&nbsp;[AI&nbsp;Tool&nbsp;Gateway](https://github.com/Vkuvalin/enterprise-ai-tool-gateway) | Локальный прототип AI-шлюза: проверка предложений модели, согласование действий, контролируемое выполнение инструментов и журнал аудита. |
+| 🤖&nbsp;[Reviewer&nbsp;Hub](https://github.com/Vkuvalin/reviewer-hub) | Независимый рецензент решений и результатов: выбор источников, чтение длинных чатов и курируемая память проекта. |
+| 🧭&nbsp;[Personal&nbsp;Assistant](https://github.com/Vkuvalin/personal-assistant-foundation) | Архитектура персонального ассистента: память, рабочие пространства, маршрутизация к владельцам данных и проверяемое обновление записей. |
+| 📷&nbsp;[DocuStruct&nbsp;AI](https://github.com/Vkuvalin/document-digitization-ai) | Локальный AI-инструмент для извлечения полей и таблиц из изображений документов, проверки результата и экспорта в Markdown/PDF. |
+| 🌐&nbsp;[ChatGPT&nbsp;Helper](https://github.com/Vkuvalin/chatgpt-helper) | Chromium-расширение: шаблоны и папки, словарь, сохранённые фрагменты, перевод и AI-анализ выделенного текста. |
+| 🧠&nbsp;[Meta&nbsp;Machine](https://github.com/Vkuvalin/Family-Meta-Machine) | Авторский эксперимент с модульными инструкциями для Custom GPT: уточнение намерений, роли, пошаговый разбор и управление диалогом. |
 
 ### Android, автоматизация и ранние инструменты
 
 | Проект | Описание |
 |---|---|
-| 🎮 [BrainStorm](https://github.com/Vkuvalin/BrainStorm) | Android-игра по мотивам BrainWars: две мини-игры, сетевые матчи, друзья, чаты и статистика. Kotlin, Jetpack Compose, MVVM и Clean Architecture. |
-| 🧸 [Find The Parent](https://github.com/Vkuvalin/FindTheParent) | Игра на память, которую делал для дочки: фотографии родителей, четыре режима, разные стили карточек и локальный счёт. |
-| 🖥️ [Controller for computer](https://github.com/Vkuvalin/Controller-for-computer) | Исторический Telegram-контроллер Windows-ПК: скриншоты, камера и системные команды. |
-| 🛠️ [UCMDB Discovery](https://github.com/Vkuvalin/Local_transfer_to_UCMDB) | Исторический интеграционный проект на Python/Jython: консолидация, нормализация и обогащение CI/IP-данных. |
-| 🧩 [AutoHotkey](https://github.com/Vkuvalin/AutoHotkey) | Набор скриптов автоматизации Windows. Рекомендую обуздать — мощный язык для повседневных инструментов. |
+| 🎮&nbsp;[BrainStorm](https://github.com/Vkuvalin/BrainStorm) | Android-игра по мотивам BrainWars: две мини-игры, сетевые матчи, друзья, чаты и статистика. Kotlin, Jetpack Compose, MVVM и Clean Architecture. |
+| 🧸&nbsp;[Find&nbsp;The&nbsp;Parent](https://github.com/Vkuvalin/FindTheParent) | Игра на память, которую делал для дочки: фотографии родителей, четыре режима, разные стили карточек и локальный счёт. |
+| 🖥️&nbsp;[Controller&nbsp;for&nbsp;computer](https://github.com/Vkuvalin/Controller-for-computer) | Исторический Telegram-контроллер Windows-ПК: скриншоты, камера и системные команды. |
+| 🛠️&nbsp;[UCMDB&nbsp;Discovery](https://github.com/Vkuvalin/Local_transfer_to_UCMDB) | Исторический интеграционный проект на Python/Jython: консолидация, нормализация и обогащение CI/IP-данных. |
+| 🧩&nbsp;[AutoHotkey](https://github.com/Vkuvalin/AutoHotkey) | Набор скриптов автоматизации Windows. Рекомендую обуздать — мощный язык для повседневных инструментов. |
 
 [Все репозитории](https://github.com/Vkuvalin?tab=repositories&sort=stargazers)
 
