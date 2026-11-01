@@ -1,8 +1,6 @@
 <h1 align="center"><a href="https://github.com/Vkuvalin"><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/refs/heads/master/GIF/Hi.gif" width="40" height="40" alt="Привет!" /></a> <a href="https://github.com/Vkuvalin"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=4000&color=F73231&center=true&vCenter=true&height=40&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+-+What+Is+Love+" alt="Владислав Кувалин | What Is Love" /></a></h1>
 
-<p align="center">
-  <strong>Applied AI / LLM Engineering | Python Backend | Автоматизация</strong>
-</p>
+<h3 align="center">Applied AI / LLM Engineering | Python Backend | Автоматизация</h3>
 
 <p align="center">
   <img src="https://www.servisten.net/assets/images/loader.gif" width="20" height="20" alt="" /> Проектирую и разрабатываю AI-инструменты, backend-системы и управляемые агентные процессы.<br/>
@@ -60,6 +58,10 @@
 <details>
 <summary><h2>📌 Проекты</h2></summary>
 
+### AI-продукты и инструменты
+
+Здесь собраны прикладные продукты с использованием языковых моделей и инструменты для работы с AI-агентами. Общий фокус — решение практических задач, организация контекста и памяти, управление действиями агентов и проверка результатов.
+
 | Проект | Что делает и на каком этапе находится |
 |---|---|
 | **Vacancy&nbsp;Collector** | Персональный инструмент для сбора и оценки вакансий, который помогает работать с подходящей подборкой вместо ручного поиска.<br/>**Сейчас:** личная версия проходит тестирование и стабилизацию. Дальнейшее развитие — коммерческий сервис. Исходный репозиторий пока приватный. |
@@ -109,7 +111,8 @@
 <details>
 <summary><h2>🛠️ Технологии</h2></summary>
 
-Основной фокус — AI/LLM, Python backend и автоматизация. Android и инфраструктурные интеграции — часть предыдущей практики.
+Основной фокус — AI/LLM, Python backend и автоматизация.<br/>
+Android и инфраструктурные интеграции — часть предыдущей практики.
 
 - **AI / LLM Engineering:**  
   `LLM API`, `OpenRouter`, `Structured Outputs`, `Pydantic`, `JSON Schema`,
