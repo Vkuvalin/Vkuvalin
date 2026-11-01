@@ -22,16 +22,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Design-00337f?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/Architecture-ad5b30?style=flat-square" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Logic_First-044960?style=flat-square" alt="Logic First" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Context_Engineering-0F766E?style=flat-square" alt="Context Engineering" />
   <img src="https://img.shields.io/badge/Agent_Orchestration-ad5b30?style=flat-square" alt="Agent Orchestration" />
   <img src="https://img.shields.io/badge/LLM_Workflows-be8e05?style=flat-square" alt="LLM Workflows" />
   <img src="https://img.shields.io/badge/Workflow_Design-582e88?style=flat-square" alt="Workflow Design" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Design-00337f?style=flat-square" alt="System Design" />
+  <img src="https://img.shields.io/badge/Architecture-ad5b30?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Logic_First-044960?style=flat-square" alt="Logic First" />
 </p>
 
 <p align="center">
@@ -60,18 +60,18 @@
 
 ### AI-продукты и инструменты
 
-Здесь собраны прикладные продукты с использованием языковых моделей и инструменты для работы с AI-агентами. Общий фокус — решение практических задач, организация контекста и памяти, управление действиями агентов и проверка результатов.
+Создаю продукты на базе AI и инструменты, которые помогают их проектировать, разрабатывать и проверять. Здесь собраны коммерческие разработки, открытые инженерные проекты и авторские эксперименты.
 
 | Проект | Что делает и на каком этапе находится |
 |---|---|
 | **Vacancy&nbsp;Collector** | Персональный инструмент для сбора и оценки вакансий, который помогает работать с подходящей подборкой вместо ручного поиска.<br/>**Сейчас:** личная версия проходит тестирование и стабилизацию. Дальнейшее развитие — коммерческий сервис. Исходный репозиторий пока приватный. |
 | **Attribution&nbsp;AI** | Продукт для AI-атрибуции антиквариата по фотографиям: от анализа предмета до структурированного результата.<br/>**Сейчас:** веб-интерфейс готов. Следующий этап — интеграция с backend и подготовка коммерческого запуска. Исходный репозиторий пока приватный. |
-| 🧠&nbsp;[Command&nbsp;Center](https://github.com/Vkuvalin/command-center-public) | Система оркестрации разработки с ИИ-агентами под управлением специалиста: этапы, постановка задач, проектная память, исполнение и независимое ревью. |
+| 🎛️&nbsp;[Command&nbsp;Center](https://github.com/Vkuvalin/command-center-public) | Система оркестрации разработки с ИИ-агентами под управлением специалиста: этапы, постановка задач, проектная память, исполнение и независимое ревью. |
 | 🗺️&nbsp;[Project&nbsp;KB](https://github.com/Vkuvalin/project-kb) | Структурная карта Python-репозиториев: снимки SQLite, проверка актуальности, CLI и доступ через MCP. Исследовательский инструмент с опубликованными экспериментами. |
-| 🕸️&nbsp;[AI&nbsp;Tool&nbsp;Gateway](https://github.com/Vkuvalin/enterprise-ai-tool-gateway) | Локальный прототип AI-шлюза: проверка предложений модели, согласование действий, контролируемое выполнение инструментов и журнал аудита. |
+| 🕸️&nbsp;[AI&nbsp;Tool&nbsp;Gateway](https://github.com/Vkuvalin/enterprise-ai-tool-gateway) | Прототип AI-шлюза для корпоративных сценариев: проверка предложений модели, согласование действий, контролируемое выполнение инструментов и журнал аудита. |
 | 🤖&nbsp;[Reviewer&nbsp;Hub](https://github.com/Vkuvalin/reviewer-hub) | Независимый рецензент решений и результатов: выбор источников, чтение длинных чатов и курируемая память проекта. |
 | 🧭&nbsp;[Personal&nbsp;Assistant](https://github.com/Vkuvalin/personal-assistant-foundation) | Архитектура персонального ассистента: память, рабочие пространства, маршрутизация к владельцам данных и проверяемое обновление записей. |
-| 📷&nbsp;[DocuStruct&nbsp;AI](https://github.com/Vkuvalin/document-digitization-ai) | Локальный AI-инструмент для извлечения полей и таблиц из изображений документов, проверки результата и экспорта в Markdown/PDF. |
+| 📷&nbsp;[DocuStruct&nbsp;AI](https://github.com/Vkuvalin/document-digitization-ai) | Прототип AI-сервиса для извлечения полей и таблиц из изображений документов, проверки результата и экспорта в Markdown/PDF. |
 | 🌐&nbsp;[ChatGPT&nbsp;Helper](https://github.com/Vkuvalin/chatgpt-helper) | Chromium-расширение: шаблоны и папки, словарь, сохранённые фрагменты, перевод и AI-анализ выделенного текста. |
 | 🧠&nbsp;[Meta&nbsp;Machine](https://github.com/Vkuvalin/Family-Meta-Machine) | Авторский эксперимент с модульными инструкциями для Custom GPT: уточнение намерений, роли, пошаговый разбор и управление диалогом. |
 
@@ -92,7 +92,7 @@
 <a id="experience"></a>
 
 <details>
-<summary><h2>🧠 Профессиональный опыт</h2></summary>
+<summary><h2>💼 Профессиональный опыт</h2></summary>
 
 - Разрабатывал и внедрял инструменты автоматизации подготовки конфигураций и диагностики потоков данных в контуре ВТБ, которыми пользовались **200+ коллег**. Совокупную экономию ручной работы в период массовых загрузок оцениваю примерно в **500 человеко-часов в неделю**.
 - Стандартизировал входные материалы и организовал подготовку на стороне команд — поставщиков задач, устранив узкое место сопровождения.
