@@ -34,13 +34,6 @@
   <img src="https://img.shields.io/badge/Logic_First-044960?style=flat-square" alt="Logic First" />
 </p>
 
-<p align="center">
-  <a href="#user-content-about">Обо мне</a> |
-  <a href="#user-content-projects">Проекты</a> |
-  <a href="#user-content-experience">Опыт</a> |
-  <a href="#user-content-technologies">Технологии</a>
-</p>
-
 <a id="about"></a>
 
 ## 🎭 Обо мне
