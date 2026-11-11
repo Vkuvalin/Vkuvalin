@@ -6,7 +6,7 @@
   <a href="https://hh.ru/resume/d6410452ff0f526f1b0039ed1f6e6d76434833"><img src="https://img.shields.io/badge/HH-%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-d40000?style=flat" alt="Резюме на hh.ru" /></a>
 </p>
 
-<h3 align="center">Applied AI / LLM Engineering | Python Backend | Автоматизация</h3>
+<h3 align="center">Applied AI / Solutions Engineer | Python Backend | Автоматизация</h3>
 
 <p align="center">
   <img src="https://www.servisten.net/assets/images/loader.gif" width="20" height="20" alt="" /> Проектирую и разрабатываю AI-инструменты, backend-системы и управляемые агентные процессы.<br/>
